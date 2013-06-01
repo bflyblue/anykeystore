@@ -9,6 +9,5 @@ setup(
     url='https://github.com/bflyblue/anykeystore',
     license='LICENSE.txt',
     description='Wrap backends as simple key-value stores.',
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
 )
-
